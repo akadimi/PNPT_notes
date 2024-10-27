@@ -1,7 +1,5 @@
 # PNPT-Practical Network Penetration Tester
 
-![female_redhair_hacker](https://user-images.githubusercontent.com/63926014/221395617-8fa6e49d-4729-480c-b811-c95aebe71bf2.png)
-
 Notes from all the TCM Courses I took in preparation for the PNPT
 
 ## About the PNPT:
