@@ -1,3 +1,5 @@
+This is a fork from: https://github.com/ethanolivertroy/PNPT
+
 # PNPT-Practical Network Penetration Tester
 
 Notes from all the TCM Courses I took in preparation for the PNPT
